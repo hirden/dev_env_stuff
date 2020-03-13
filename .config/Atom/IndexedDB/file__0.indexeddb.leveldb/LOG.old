@@ -1,0 +1,18 @@
+2020/03/05-09:26:44.438 30037 Reusing MANIFEST /home/hirden/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/03/05-09:26:44.438 30037 Recovering log #1285
+2020/03/05-09:26:44.441 30037 Reusing old log /home/hirden/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/001285.log 
+2020/03/05-09:30:52.069 30931 Level-0 table #1289: started
+2020/03/05-09:30:52.103 30931 Level-0 table #1289: 831181 bytes OK
+2020/03/05-09:30:52.110 30931 Delete type=0 #1285
+2020/03/05-09:30:52.112 30931 Compacting 4@0 + 1@1 files
+2020/03/05-09:30:52.155 30931 Generated table #1290@0: 11 keys, 197439 bytes
+2020/03/05-09:30:52.155 30931 Compacted 4@0 + 1@1 files => 197439 bytes
+2020/03/05-09:30:52.159 30931 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/05-09:30:52.159 30931 Delete type=2 #1286
+2020/03/05-09:30:52.159 30931 Delete type=2 #1280
+2020/03/05-09:30:52.159 30931 Delete type=2 #1282
+2020/03/05-09:30:52.159 30931 Delete type=2 #1284
+2020/03/05-09:30:52.159 30931 Delete type=2 #1289
+2020/03/05-09:33:28.346 30931 Level-0 table #1292: started
+2020/03/05-09:33:28.359 30931 Level-0 table #1292: 761839 bytes OK
+2020/03/05-09:33:28.363 30931 Delete type=0 #1288

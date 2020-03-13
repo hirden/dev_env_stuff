@@ -1,17 +1,27 @@
-# Path to your oh-my-zsh installation.
-export ZSH=$HOME/.oh-my-zsh
+# If you come from bash you might have to change your $PATH.
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-# Set name of the theme to load.
-# Look in ~/.oh-my-zsh/themes/
-# Optionally, if you set this to "random", it'll load a random theme each
-# time that oh-my-zsh is loaded.
-ZSH_THEME="babun"
+# Path to your oh-my-zsh installation.
+export ZSH="/home/hirden/.oh-my-zsh"
+
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time oh-my-zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+ZSH_THEME="bullet-train"
+#ZSH_THEME="agnoster"
+
+# Set list of themes to pick from when loading at random
+# Setting this variable when ZSH_THEME=random will cause zsh to load
+# a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
+# If set to an empty array, this variable will have no effect.
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
-# Uncomment the following line to use hyphen-insensitive completion. Case
-# sensitive completion must be off. _ and - will be interchangeable.
+# Uncomment the following line to use hyphen-insensitive completion.
+# Case-sensitive completion must be off. _ and - will be interchangeable.
 # HYPHEN_INSENSITIVE="true"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
@@ -39,24 +49,39 @@ ZSH_THEME="babun"
 
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
-# The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
+# You can set one of the optional three formats:
+# "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
+# or set a custom format using the strftime function format specifications,
+# see 'man strftime' for details.
 # HIST_STAMPS="mm/dd/yyyy"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
-# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+# Which plugins would you like to load?
+# Standard plugins can be found in ~/.oh-my-zsh/plugins/*
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+  git
+  zsh-autosuggestions
+  kubectl
+)
+
+if [ $commands[kubectl] ]; then
+  source <(kubectl completion zsh)
+fi
+
+if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
+        source /etc/profile.d/vte.sh
+fi
+
+source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH=$HOME/bin:/usr/local/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
-
-source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -72,7 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # export ARCHFLAGS="-arch x86_64"
 
 # ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
+# export SSH_KEY_PATH="~/.ssh/rsa_id"
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
@@ -83,43 +108,31 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# Default to human readable figures
-alias df='df -h'
-alias du='du -h'
-#
-# Misc :)
-# alias less='less -r'                          # raw control characters
-# alias whence='type -a'                        # where, of a sort
-alias grep='grep --color'                     # show differences in colour
-alias egrep='egrep --color=auto'              # show differences in colour
-alias fgrep='fgrep --color=auto'              # show differences in colour
-#
-# Some shortcuts for different directory listings
-# alias ls='ls -hF --color=tty'                 # classify files in colour
-# alias dir='ls --color=auto --format=vertical'
-# alias vdir='ls --color=auto --format=long'
-alias ll='ls -la'                              # long list
-alias la='ls -A'                              # all but . and ..
-alias l='ls -CF'                              #
+alias ll='ls -lha'
+alias urldecode='python2 -c "import sys, urllib as ul; \
+    print ul.unquote_plus(sys.argv[1])"'
 
-alias package-builder='cd /c/code/SnowPackageBuilder'
-alias docs='cd /c/code/Documentation'
-alias agent='cd /c/code/SnowInventoryAgent'
-alias unix-agent='cd /c/code/unix_agent'
-alias unix-client='cd /c/code/unix_client'
-alias sios='cd /c/code/SIOS'
-alias git-remove-local-tags='git tag -l | xargs git tag -d && git fetch --tags'
-alias git-submodule='git submodule update --recursive --checkout --init'
-string="$(uname -a)"
-if [[ $string == *"CYGWIN"* ]]; then
-    alias generate-64-141='cmake -G "Visual Studio 15 2017 Win64" -DCMAKE_GENERATOR_TOOLSET=v141 -DCMAKE_BUILD_TYPE=Debug ..'
-    alias generate-32-141='cmake -G "Visual Studio 15 2017" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_GENERATOR_TOOLSET=v141 ..'
-    alias generate-64-120='cmake -G "Visual Studio 12 2013 Win64" -DCMAKE_GENERATOR_TOOLSET=v120 -DCMAKE_BUILD_TYPE=Debug ..'
-    alias generate-32-120='cmake -G "Visual Studio 12 2013" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_GENERATOR_TOOLSET=v120 ..'
-    alias build='cmake --build . --config Debug'
-else
-    alias generate='cmake -DCMAKE_BUILD_TYPE=Debug ..'
-    alias build='make -j8'
-fi
+alias urlencode='python2 -c "import sys, urllib as ul; \
+    print ul.quote_plus(sys.argv[1])"'
+alias backend-aggregation="cd /home/hirden/code/tink-backend-aggregation"
+alias appstore-monitor="cd /home/hirden/code/tink-appstore-monitor"
+alias spotify="spotify 2>/dev/null 1>/dev/null &"
+alias pycharm="pycharm-community 2>/dev/null 1>/dev/null &"
+alias python="python3"
+alias pip="pip3"
+alias settings="env XDG_CURRENT_DESKTOP=GNOME gnome-control-center 2>/dev/null 1>/dev/null &"
+alias meld='f(){ meld "$@" 2>/dev/null 1>/dev/null &;  unset -f f; }; f'
+alias norg="gron --ungron"
+alias ungron="gron --ungron"
+alias aws-cp='f(){ aws --profile=tink s3 cp "$@"; unset -f f; }; f'
 
-ZSH_THEME="agnoster"
+open() {
+    xdg-open "$1"
+}
+
+export PATH=$PATH:/snap/bin:/home/hirden/bin
+export KUBECONFIG=/etc/kubernetes/admin.conf
+export PATH=~/.local/bin:$PATH
+export GOPATH=$HOME/gopath
+export PATH=$GOPATH:$GOPATH/bin:$PATH
+export GPG_TTY=`tty`

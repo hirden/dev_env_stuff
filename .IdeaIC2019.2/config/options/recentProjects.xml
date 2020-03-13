@@ -1,0 +1,80 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/code/tink-backend-aggregation/.ijwb" />
+        <option value="$USER_HOME$/code/tink-backend/.ijwb" />
+        <option value="$USER_HOME$/code/tink-backend-integration-thirdparties/.ijwb" />
+        <option value="$USER_HOME$/code/janko/.ijwb" />
+        <option value="$USER_HOME$/code/tink-backend-aggregation" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/code/tink-backend-aggregation/.ijwb" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/code/tink-backend-aggregation/.ijwb" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/code/janko/.ijwb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.8026.42" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570616726297" />
+              <option name="buildTimestamp" value="1564466676849" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/tink-backend-aggregation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.8026.42" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565258618835" />
+              <option name="buildTimestamp" value="1564466656843" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/tink-backend-aggregation/.ijwb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.7142.36" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1583940800964" />
+              <option name="buildTimestamp" value="1572328988284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/tink-backend-integration-thirdparties/.ijwb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.8026.42" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575277759674" />
+              <option name="buildTimestamp" value="1564466682090" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/tink-backend/.ijwb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.7142.36" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1583932538819" />
+              <option name="buildTimestamp" value="1572328988284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/code/janko" />
+  </component>
+</application>

@@ -1,0 +1,1035 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/transfer/HandelsbankenSEBankTransferExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="831">
+              <caret line="166" column="46" selection-start-line="166" selection-start-column="46" selection-end-line="166" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/controllers/transfer/BankTransferExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/HandelsbankenSEPaymentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/http/NextGenTinkHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="230" selection-start-line="230" selection-end-line="230" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/utils/transfer/TransferMessageFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="99" column="72" selection-start-line="99" selection-start-column="72" selection-end-line="99" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/utils/transfer/TransferMessageFormatterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="175" column="62" selection-start-line="175" selection-start-column="62" selection-end-line="175" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/utils/transfer/TransferMessageLengthConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/agents/framework/ArgumentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="264" selection-start-line="264" selection-end-line="264" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/transfer/src/main/java/se/tink/libraries/transfer/rpc/Transfer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="189" column="27" selection-start-line="189" selection-start-column="27" selection-end-line="189" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/controllers/transfer/TransferController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;transfer&quot;</find>
+      <find>out</find>
+      <find>creditornam</find>
+      <find>rpc.aggregation</find>
+      <find>creditor</find>
+      <find>&quot;creditorName&quot;</find>
+      <find>debtorAccount&quot;</find>
+      <find>creditorName</find>
+      <find>TransferController</find>
+      <find>fet</find>
+      <find>TRANSFERS_FEAT</find>
+      <find>getDemo.*Accounts</find>
+      <find>redirectur</find>
+      <find>getDemoTransa</find>
+      <find>test-open</find>
+      <find>r</find>
+      <find>transferexecutor</find>
+      <find>test-</find>
+      <find>RedirectAuthenticationDemoAgent</find>
+      <find>redirect</find>
+      <find>redirectu</find>
+      <find>redirecturi</find>
+      <find>tink_agent_transfer_total</find>
+      <find>agent_transfer_total</find>
+      <find>transfer.*total</find>
+      <find>\.label\(</find>
+      <find>HandelsbankenAgentPaymentTest</find>
+      <find>handelsbank</find>
+      <find>handelsbanken</find>
+      <find>duedate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BigDecimal.valueOf($1),</replace>
+      <replace>BigDecimal</replace>
+      <replace>StringBuilder builder</replace>
+      <replace>logMasker.mask(</replace>
+      <replace>333 333 333</replace>
+      <replace>444444444</replace>
+      <replace>$1UserNamePasswordArgumentEnum$2</replace>
+      <replace>$1UsernameArgumentEnum$2</replace>
+      <replace>transferHelper</replace>
+      <replace>$1UsernamePasswordArgumentEnum$2</replace>
+      <replace>PasswordArgumentEnum</replace>
+      <replace>IbanArgumentEnum.</replace>
+      <replace>IbanArgumentEnum$1</replace>
+      <replace>$1</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/creditcards/sebkort</dir>
+      <dir>$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/banks/swedbank</dir>
+      <dir>$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/</dir>
+      <dir>$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken</dir>
+      <dir>$PROJECT_DIR$/../</dir>
+      <dir>$PROJECT_DIR$/../src/aggregation/lib/src/test/java/se/tink/backend/aggregation/workers/commands</dir>
+      <dir>$PROJECT_DIR$/..</dir>
+      <dir>$PROJECT_DIR$/../bazel-out/k8-fastbuild/bin/data/test/agents</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/no/openbanking/dnb/DnbAgentPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/entercard/EnterCardAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/handelsbanken/HandelsbankenAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/icabanken/IcaAgentPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/icabanken/IcaBankenAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/lansforsakringar/LansforsakringarAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/nordea/NordeaSEAgentDomesticPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/nordea/NordeaSeAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/sbab/SbabAgentPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/sbab/SbabAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/sebopenbanking/SebAgentPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/swedbank/SwedbankAgentPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/pt/banks/bancobpi/agent/BancoBpiAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/agents/framework/AgentIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/de/openbanking/comdirect/ComdirectAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/de/openbanking/sparkassen/SparkassenAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/es/banks/ing/v195/IngAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/nl/banks/bunq/BunqAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/no/banks/sparebankensor/SparebankenSorAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/no/banks/sparebankensor/SparebankenSorDualAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/danskebank/DanskeBankSEAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/agents/framework/ArgumentManager.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/brokers/avanza/AvanzaAgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/creditcards/amex/AmericanExpressSEV62AgentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/nordeabase/NordeaBaseConstants.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/legacy/banks/LansforsakringarAgent.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/NordeaSEApiClient.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/agents/utils/soap/SoapParser.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/executors/NordeaExecutorHelper.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/executors/NordeaBankTransferExecutor.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/executors/NordeaPaymentExecutor.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/executors/einvoice/NordeaApproveEInvoiceExecutor.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/NordeaSEConstants.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/rpc/ErrorResponse.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/nordea/v30/NordeaSEAgent.java" />
+        <option value="$PROJECT_DIR$/../src/aggregation/lib/src/main/java/se/tink/backend/aggregation/workers/AgentWorkerOperationFactory.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/pt/banks/novobanco/fetcher/detail/TransactionalAccountMapper.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/http/metrics/MetricFilter.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/demo/banks/psd2/redirect/RedirectAuthenticationDemoAgent.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/agents/demo/DemoConstants.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/agents/demo/DemoAccountDefinitionGenerator.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/nxgen/agents/demo/ItDemoAccountGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/nxgen/agents/demo/DemoAccountDefinitionGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/nxgen/agents/demo/UkDemoAccountGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/../etc/development.yml" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/handelsbanken/HandelsbankenAgentPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/transfer/rpc/TransferSignRequest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/HandelsbankenSEBankPaymentExecutorTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/HandelsbankenSEBankTransferExecutorTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/HandelsbankenSEPaymentTest.java" />
+        <option value="$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/utils/transfer/TransferMessageFormatter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2560" />
+    <option name="y" value="34" />
+    <option name="width" value="1240" />
+    <option name="height" value="2526" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="etc" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="handelsbanken" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="handelsbanken" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="executor" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="handelsbanken" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="executor" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="payment" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="main" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="handelsbanken" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="executor" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="transfer" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="handelsbanken" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="handelsbanken" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="executor" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tink-backend-aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tink-backend-aggregation" type="34d14456:WorkspaceRootNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="integration" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="src" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="test" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="java" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="agents" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="nxgen" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="se" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="banks" type="81dbbfc7:BlazePsiDirectoryNode" />
+              <item name="swedbank" type="81dbbfc7:BlazePsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 10h 46m 44s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 10h 50m 11s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 10h 51m 02s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 10h 52m 27s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 10h 57m 48s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 10h 58m 46s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 11h 01m 22s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 11h 07m 28s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 11h 07m 52s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Bazel_test_HandelsbankenSEPaymentTest_testTransfer - 2020.03.12 at 11h 08m 31s.xml">
+      <configuration name="Bazel test HandelsbankenSEPaymentTest.testTransfer" configurationId="BlazeCommandRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2560" y="34" width="1440" height="2526" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" x="2080" y="18" width="480" height="1422" id="Project" order="0" type="FLOATING" visible="true" weight="0.25751072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5100143" weight="0.45252773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6609442" weight="0.46074805" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.52932763" visible="true" weight="0.37813398" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49499285" weight="0.60131526" />
+      <window_info anchor="bottom" id="Blaze Problems" order="8" sideWeight="0.47353363" weight="0.30633223" />
+      <window_info anchor="bottom" id="Blaze Console" order="9" sideWeight="0.4706724" side_tool="true" visible="true" weight="0.37813398" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32983193" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.46995708" side_tool="true" weight="0.37813398" />
+      <window_info anchor="bottom" id="Build" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" />
+      <window_info anchor="bottom" id="Bazel Problems" order="14" sideWeight="0.51573676" weight="0.3296342" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Ant" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="2080" y="34" width="480" height="1406" id="Project" order="0" type="FLOATING" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.59155935" visible="true" weight="0.49095395" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7432046" weight="0.4745066" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7646638" weight="0.5785362" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49713877" weight="0.32976973" />
+      <window_info anchor="bottom" id="Blaze Problems" order="8" sideWeight="0.57939917" weight="0.5662007" />
+      <window_info anchor="bottom" id="Blaze Console" order="9" sideWeight="0.40844062" side_tool="true" visible="true" weight="0.49095395" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>transactionAccount.getIdentifiers()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>savingsAccount.getIdentifiers()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>transactionalAccount1.getAccountId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>transactionAccount.getBalance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Iban.Builder().countryCode(CountryCode.IT).</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Iban.Builder().</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>deterministicKey.substring(5)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>navAmount</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>accounts.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>var6</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.build(node, path)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../data/seeding/providers-uk.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12708">
+          <caret line="706" column="88" selection-start-line="706" selection-start-column="57" selection-end-line="706" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/agents/demo/NextGenerationDemoAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3222">
+          <caret line="179" column="37" selection-start-line="179" selection-start-column="37" selection-end-line="179" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/legacy/demo/DemoAgentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/nxgen/agents/demo/UkDemoAccountGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="92" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.charts/tink-backend-aggregation-agents/templates/alerts.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="85" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/aggregation/lib/src/main/java/se/tink/backend/aggregation/workers/metrics/AgentWorkerCommandMetricState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2826">
+          <caret line="157" column="68" selection-start-line="153" selection-start-column="24" selection-end-line="157" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/api/src/main/java/se/tink/backend/agents/rpc/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="167" column="5" selection-start-line="164" selection-start-column="4" selection-end-line="167" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/demo/banks/psd2/redirect/executor/transfer/RedirectDemoTransferExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="53" column="80" lean-forward="true" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/nxgen/agents/demo/ItDemoAccountGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="21" column="97" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/agents/framework/AbstractAgentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="406" column="13" selection-start-line="406" selection-start-column="13" selection-end-line="406" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/demo/banks/psd2/redirect/RedirectAuthenticationDemoAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/handelsbanken/executor/payment/HandelsbankenSEPaymentExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/fi/openbanking/handelsbanken/HandelsbankenAgentPaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/rpc/ErrorResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../etc/development.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data/secret/production/k8s/se/secrets.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/authenticator/HandelsbankenBankIdAuthenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/controllers/payment/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/executor/payment/HandelsbankenBasePaymentExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/HandelsbankenBaseConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/HandelsbankenBaseApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="210" column="27" lean-forward="true" selection-start-line="210" selection-start-column="27" selection-end-line="210" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/executor/payment/entities/CreditorNameEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/executor/payment/entities/IdentificationEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/executor/payment/entities/CreditorAgentEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/executor/payment/entities/AccountEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/serviceproviders/openbanking/handelsbanken/executor/payment/rpc/CreatePaymentRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/nl/openbanking/handelsbanken/HandelsbankenAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/payment/rpc/PaymentSignRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/HandelsbankenSEApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="244" column="32" selection-start-line="244" selection-start-column="32" selection-end-line="244" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/transfer/rpc/TransferSignRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/HandelsbankenSEAgentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/agents/framework/AgentIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="741" column="16" selection-start-line="741" selection-start-column="16" selection-end-line="741" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/openbanking/handelsbanken/HandelsbankenAgentPaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1039">
+          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/HandelsbankenSETestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data/seeding/providers-se.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1327">
+          <caret line="689" column="40" selection-start-line="689" selection-start-column="40" selection-end-line="689" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/controllers/transfer/PaymentExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/payment/HandelsbankenSEPaymentExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="316" column="25" selection-start-line="316" selection-start-column="18" selection-end-line="316" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/controllers/transfer/BankTransferExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/HandelsbankenSEBankPaymentExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/swedbank/SwedbankSEPaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/swedbank/SwedbankSEAgentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/controllers/transfer/TransferController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/agents/framework/ArgumentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="264" selection-start-line="264" selection-end-line="264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/utils/transfer/TransferMessageLengthConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/test/java/se/tink/backend/aggregation/utils/transfer/TransferMessageFormatterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="175" column="62" selection-start-line="175" selection-start-column="62" selection-end-line="175" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/nxgen/http/NextGenTinkHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/transfer/src/main/java/se/tink/libraries/transfer/rpc/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="189" column="27" selection-start-line="189" selection-start-column="27" selection-end-line="189" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/main/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/transfer/HandelsbankenSEBankTransferExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="166" column="46" selection-start-line="166" selection-start-column="46" selection-end-line="166" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/agents/src/test/java/se/tink/backend/aggregation/agents/nxgen/se/banks/handelsbanken/executor/HandelsbankenSEPaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/integration/lib/src/main/java/se/tink/backend/aggregation/utils/transfer/TransferMessageFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="99" column="72" selection-start-line="99" selection-start-column="72" selection-end-line="99" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
