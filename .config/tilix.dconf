@@ -1,0 +1,22 @@
+[keybindings]
+session-add-right='<Primary><Alt>d'
+session-add-down='<Primary><Alt>s'
+
+[/]
+terminal-title-style='small'
+recent-session-files=['/home/hirden/tilix-boot', 'tilix-boot']
+theme-variant='dark'
+window-style='disable-csd-hide-toolbar'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+foreground-color='#8B8B93938A8A'
+visible-name='Default'
+palette=['#4B3B51', '#CB745B', '#8DAA9A', '#C0C0A2', '#587A7F', '#E89B83', '#BEDECC', '#F5F5F5F5F5F5', '#676755556E6E', '#CB745B', '#8D8DAAAA9A9A', '#C0C0A2', '#587A7F', '#E89B83', '#BEDECC', '#F5F5F5']
+badge-color-set=false
+use-system-font=false
+cursor-colors-set=false
+highlight-colors-set=false
+use-theme-colors=false
+bold-color-set=false
+font='Hack 10'
+background-color='#343434'
