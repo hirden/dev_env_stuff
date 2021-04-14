@@ -1,0 +1,71 @@
+format = """
+$time$username$hostname$directory$git_branch$git_status$python
+$character
+"""
+
+[username]
+format = "[ $user@]($style)"
+style_user = "bg:black fg:yellow"
+show_always = true
+
+[hostname]
+format = "[$hostname ]($style)[◤](black)"
+style = "bg:black fg:yellow"
+ssh_only = false
+
+[directory]
+format = "[◢](blue)[ $path ](white bg:blue)[◤](blue)"
+truncate_to_repo = false
+
+[java]
+symbol = "🐌"
+
+[battery]
+full_symbol = "🔋"
+charging_symbol = "⚡️"
+discharging_symbol = "💀"
+
+[[battery.display]]  # "bold red" style when capacity is between 0% and 20%
+threshold = 20
+style = "red"
+
+[[battery.display]]  # "bold yellow" style when capacity is between 20% and 30%
+threshold = 30
+style = "yellow"
+
+[kubernetes]
+symbol = "☸ "
+style = "blue"
+disabled = false
+
+[git_branch]
+format = "[◢](white)[ $symbol $branch ](bg:white fg:black)[◤](white)"
+symbol = ""
+
+[git_status]
+format = "[◢](white)[ $all_status ](black bg:white)[◤](white)"
+conflicted = "🏳"
+ahead = "🏎💨"
+behind = "😰"
+diverged = "😱"
+untracked = "🤷‍"
+stashed = "📦"
+modified = "📝"
+staged.value = "++"
+staged.style = "green"
+staged_count.enabled = true
+staged_count.style = "green"
+renamed = "👅"
+deleted = "🗑"
+
+[time]
+disabled = false
+format = "[◢](white)[ $time](black bg:white)[◤](white)"
+time_format = "%T"
+utc_time_offset = "+2"
+time_range = "10:00:00-14:00:00"
+
+[python]
+format = '[◢](green)[ ${symbol} ${pyenv_prefix}(${version})(\($virtualenv\)) ](white bg:green)[◤](green)'
+symbol = "👾"
+pyenv_version_name = true
