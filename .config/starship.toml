@@ -43,7 +43,11 @@ format = "[◢](white)[ $symbol $branch ](bg:white fg:black)[◤](white)"
 symbol = ""
 
 [git_status]
+<<<<<<< HEAD
 format = "[◢](white)[ $all_status ](black bg:white)[◤](white)"
+=======
+format = "([◢](white)[$all_status](black bg:white)[◤](white))"
+>>>>>>> b1bf7e1c2f98ae823627bd93c1ac136276ded71b
 conflicted = "🏳"
 ahead = "🏎💨"
 behind = "😰"
